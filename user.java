@@ -1,2 +1,3 @@
-intial commit
+bug is fixed 
+hello guys
 
